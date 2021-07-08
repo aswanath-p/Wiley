@@ -1,0 +1,28 @@
+Banking App
+
+Approach:- A menu driven program that will contain
+
+Here we develop the applications in all dimensions like bank details and about account and customer.
+
+BANK:
+	1. Create Account/Register
+		- user enters name & user_id
+		- min_balance/deposit_amt=2000
+		- account_no
+
+	2 to display user details
+	3 to displays account details
+	4 to transactions like credit and debit etc
+	5 to get mini statement
+	6 to view current account balance
+	7 to exit
+
+ACCOUNT:
+	debit()
+	credit()
+	transfer amt to another account()
+	current balance()
+
+CUSTOMER:
+	cust_details()-- user_id,user_name
+	acc_details()
