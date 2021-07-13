@@ -1,6 +1,6 @@
 package wiley.demo.hello;
 import java.util.*;
-public class Fibonacci implements Runnable{
+public class July12th implements Runnable{
 
 	Scanner sc = new Scanner(System.in);
 	List<Integer> fib_no = new ArrayList<Integer>(); 
